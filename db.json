@@ -9,6 +9,14 @@
       "id": 2,
       "title": "Second Article",
       "content": "This is also an example."
+    },
+    {
+      "id": 3
+    },
+    {
+      "title": "Third Article",
+      "Content": "Another example!",
+      "id": 4
     }
   ]
 }
